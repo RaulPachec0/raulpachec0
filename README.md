@@ -1,7 +1,7 @@
 ## Hi, I'm Raul 👋
 
 ⚡ Full-stack Engineer <br/>
-🧠 B.S & M.S Degree in Computer Science (Minor in Mathematics and Information Technology)<br/>
+🧠 B.S & M.S Degree in Computer Science (Minor in Mathematics and IT)<br/>
 💻 I specialize in software automation, machine learning and data engineering<br/>
 🔭 I am currently working on a Django site to analyze wrestling stats using Python, Pandas, and MySQL, with user-driven data queries and visualizations.<br/>
 
